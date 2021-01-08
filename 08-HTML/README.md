@@ -1,18 +1,6 @@
 <p align='left'>
     <img  src='../logo.png' height='70px'>
 </p>
-<table width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=08-HTML">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
-
 # Lección 8: Fundamentos HTML/CSS
 
 En esta clase veremos:
@@ -24,6 +12,8 @@ En esta clase veremos:
 * Estilos Básicos.
 * Modelo de Caja.
 * Hojas de estilos externas y el tag \<link\>.
+
+<iframe src="https://player.vimeo.com/video/424845809" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Introducción HTML
 
@@ -161,7 +151,7 @@ Son los tags que contienen los items de la lista ('list item').
 ## CSS
 
 Como vimos, HTML nos sirve para dar estructura al contenido. En las primeras épocas de internet las páginas eran así. De hecho, todavía esta online la [primera página web](http://info.cern.ch/hypertext/WWW/TheProject.html). Como ven es bastante aburrida.
-Luego se introdujo el concepto de CSS (Cascading Style Sheets); una forma de poder agregar color y estilos en nuestras páginas!
+Luego se introdució el concepto de CSS (Cascading Style Sheets); una forma de poder agregar color y estilos en nuestras páginas!
 
 ## Reglas CSS
 

@@ -1,15 +1,4 @@
 <img  src='../logo.png' height='70px'>
-<table width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=02-JS-I">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
 
 # Lección 2: Introducción a Javascript
 
@@ -44,7 +33,7 @@ Existen tres formas de declarar una variable:
 ```javascript
     var nombre = 'Juan'; // Vamos a usar principalemente esta forma
     let apellido = 'Perez';
-    const comidafavorita = 'Pizza';
+    var comidafavorita = 'Pizza';
 ```
 
 ### var
@@ -190,7 +179,7 @@ Math.pow(3,3) = 27;
 
 ### Math.round , Math.floor, Math.ceil
 
-`Math` también tiene métodos que redondearán los números para nosotros. `.round` redondeará un número al número entero más cercano. `.floor` siempre redondeará un número al número entero más cercano hacia abajo. `.ceil` siempre se redondeará al número entero más cercano hacia arriba.
+`Math` también tiene métodos que redondearán los números para nosotros. `.round` redondeará un número al número entero más cercano. `.floor` siempre redondeará un número al número entero más cercano. `.ceil` siempre se redondeará al número entero más cercano.
 
 ```javascript
 Math.round(6.5) = 7;
